@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="printf.cpp">
+    <ClCompile Include="sum.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

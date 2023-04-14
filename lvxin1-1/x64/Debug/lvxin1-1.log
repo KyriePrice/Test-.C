@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(5598,5): warning MSB3061: 无法删除文件“C:\2022\1、0基础C语言第03天\lvxin1-1\x64\Debug\lvxin1-1.exe”。对路径“C:\2022\1、0基础C语言第03天\lvxin1-1\x64\Debug\lvxin1-1.exe”的访问被拒绝。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets(77,5): warning : 对路径“c:\2022\1、0基础c语言第03天\lvxin1-1\x64\debug\lvxin1-1.exe”的访问被拒绝。
+  printf.cpp
+LINK : fatal error LNK1104: 无法打开文件“C:\2022\1、0基础C语言第03天\lvxin1-1\x64\Debug\lvxin1-1.exe”

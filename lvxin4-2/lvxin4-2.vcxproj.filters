@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="scanf.cpp">
+    <ClCompile Include="else.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

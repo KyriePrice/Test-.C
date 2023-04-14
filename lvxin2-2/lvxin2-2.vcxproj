@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{103a97c0-e0b2-4d66-9905-a8136da67cd6}</ProjectGuid>
-    <RootNamespace>lvxin42</RootNamespace>
+    <ProjectGuid>{99dfb9b6-e6c7-4ff9-a7f6-e8b77e1c071c}</ProjectGuid>
+    <RootNamespace>lvxin22</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="else.cpp" />
+    <ClCompile Include="scanf.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
